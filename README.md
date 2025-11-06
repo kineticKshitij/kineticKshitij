@@ -45,6 +45,7 @@ me.say_hi()
 ## 🛠️ Tech Stack
 
 ### **Languages**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -55,6 +56,7 @@ me.say_hi()
 </p>
 
 ### **Frameworks & Libraries**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -63,6 +65,7 @@ me.say_hi()
 </p>
 
 ### **DevOps & Cloud**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -73,6 +76,7 @@ me.say_hi()
 </p>
 
 ### **Cybersecurity Tools**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
@@ -82,6 +86,7 @@ me.say_hi()
 </p>
 
 ### **Databases**
+
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -113,25 +118,31 @@ me.say_hi()
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/kineticKshitij/Security-copilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kineticKshitij&repo=Security-copilot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="Security Copilot" />
-  </a>
-  <a href="https://github.com/kineticKshitij/LiveTerminal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kineticKshitij&repo=LiveTerminal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="LiveTerminal" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/kineticKshitij/Machine-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kineticKshitij&repo=Machine-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="Machine Learning" />
-  </a>
-  <a href="https://github.com/kineticKshitij/Synergy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kineticKshitij&repo=Synergy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="Synergy" />
-  </a>
-</p>
+### 🔐 Security & Cybersecurity
+
+[![Security-copilot](https://img.shields.io/badge/Azure_NSG_Security_Scanner-View_Repo-3B82F6?style=for-the-badge&logo=github)](https://github.com/kineticKshitij/Security-copilot)
+[![Training-Reports](https://img.shields.io/badge/Training_Reports-View_Repo-3B82F6?style=for-the-badge&logo=github)](https://github.com/kineticKshitij/Training_Reports)
+
+### 💻 Development Projects
+
+[![LiveTerminal](https://img.shields.io/badge/Live_Terminal-View_Repo-10B981?style=for-the-badge&logo=github)](https://github.com/kineticKshitij/LiveTerminal)
+[![Synergy](https://img.shields.io/badge/Synergy-View_Repo-10B981?style=for-the-badge&logo=github)](https://github.com/kineticKshitij/Synergy)
+
+### 🤖 AI & Machine Learning
+
+[![Machine-Learning](https://img.shields.io/badge/Machine_Learning-View_Repo-8B5CF6?style=for-the-badge&logo=github)](https://github.com/kineticKshitij/Machine-Learning)
+[![MajorProject](https://img.shields.io/badge/Major_Project-View_Repo-8B5CF6?style=for-the-badge&logo=github)](https://github.com/kineticKshitij/MajorProject-V1)
+
+### 🎓 Academic Projects
+
+[![JAVA-LAB](https://img.shields.io/badge/Java_Lab_Project-View_Repo-F59E0B?style=for-the-badge&logo=github)](https://github.com/kineticKshitij/JAVA-LAB-PROJECT)
+[![Linux77](https://img.shields.io/badge/Linux77-View_Repo-F59E0B?style=for-the-badge&logo=github)](https://github.com/kineticKshitij/Linux77)
+
+</div>
 
 ---
 
@@ -163,17 +174,25 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kineticKshitij/kineticKshitij/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kineticKshitij/kineticKshitij/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kineticKshitij/kineticKshitij/output/github-contribution-grid-snake.svg">
-</picture>
+> **Note:** The snake animation will appear once you set up the GitHub Action (see setup guide below)
+
+<!-- Snake animation will show here after GitHub Action runs -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kineticKshitij/kineticKshitij/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+**Don't see the snake?** Follow these steps:
+
+1. Create `.github/workflows/snake.yml` in your profile repository
+2. Copy the workflow code from the setup guide
+3. Go to Actions tab → Run the workflow manually
+4. Wait 1-2 minutes, then refresh this page!
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kshitij-marotkar">
