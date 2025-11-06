@@ -176,19 +176,12 @@ me.say_hi()
 
 ## 🐍 Contribution Activity
 
-> **Note:** The snake animation will appear once you set up the GitHub Action (see setup guide below)
+
 
 <!-- Snake animation will show here after GitHub Action runs -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/kineticKshitij/kineticKshitij/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-**Don't see the snake?** Follow these steps:
-
-1. Create `.github/workflows/snake.yml` in your profile repository
-2. Copy the workflow code from the setup guide
-3. Go to Actions tab → Run the workflow manually
-4. Wait 1-2 minutes, then refresh this page!
 
 ---
 
